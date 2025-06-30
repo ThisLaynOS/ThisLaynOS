@@ -4,7 +4,7 @@
 <!-- INTRO -->
 <h1 align="center">🚀 Bem-vindo ao Universo de LaynOS</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FB08&size=30&center=true&vCenter=true&width=1000&lines=👨‍💻+Desenvolvedor+Java+e+Fullstack;🇧🇷+Brasileiro+com+orgulho;🎓+Cursando+Ciência+da+Computação;💡+Amante+da+tecnologia+e+da+inovação" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FB08&size=30&center=true&vCenter=true&width=1000&lines=👨‍💻+Desenvolvedor+Java+e+Fullstack;🇧🇷+Brasileiro+sem+orgulho;🎓+Cursando+Ciência+da+Computação;💡+Amante+da+tecnologia+e+da+inovação" />
 </p>
 
 ---
