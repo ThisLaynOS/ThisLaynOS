@@ -1,49 +1,73 @@
+<!-- WAVE HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=001193&height=120&section=header"/>
 
-<h1 align="center">Hey 👋, I'm LaynOS</h1>
+<!-- INTRO -->
+<h1 align="center">🚀 Bem-vindo ao Universo de LaynOS</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FB08&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+LaynOS;I'm+18+years+old;I'm+from+Brazil;I´m+a+Java+Developer;Be+Welcome!+:%29" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FB08&size=30&center=true&vCenter=true&width=1000&lines=👨‍💻+Desenvolvedor+Java+e+Fullstack;🇧🇷+Brasileiro+com+orgulho;🎓+Cursando+Ciência+da+Computação;💡+Amante+da+tecnologia+e+da+inovação" />
 </p>
 
 ---
 
-### 🧠 About Me
-- 💻 Passionate about development, especially using **Java**, **Python**, and **Web technologies**.
-- 🎓 Currently studying **Computer Science**.
-- 🔭 Constantly learning and building cool things.
-- 🚀 Focused on writing clean and scalable code.
+## 🧬 Sobre mim
+
+```java
+class LaynOS {
+    String nome = "Erick (a.k.a LaynOS)";
+    int idade = 18;
+    String país = "Brasil";
+    List<String> linguagens = Arrays.asList("Java", "Python", "JavaScript", "PHP", "C");
+    boolean emEvolucaoConstante = true;
+}
+```
+
+- 💻 Codando desde os 13 anos com paixão por soluções inteligentes  
+- 📦 Construindo APIs, apps, automações e ferramentas úteis  
+- 📚 Aprendizado constante, foco em backend, mobile e segurança  
 
 ---
 
-### 🛠️ Tech Stack
+## 🧰 Minhas ferramentas
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,php,react,mysql,linux,git" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,php,html,css,mysql,linux,git,vscode,androidstudio&perline=8" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Insights
+
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThisLaynOS&show_icons=true&hide_border=true&title_color=001193&icon_color=001193&text_color=ffffff&bg_color=0d1117" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisLaynOS&layout=compact&hide_border=true&title_color=001193&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ThisLaynOS&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FB08&icon_color=00FB08" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisLaynOS&layout=compact&theme=tokyonight&hide_border=true&title_color=00FB08&text_color=00FB08" />
 </div>
 
 ---
 
-### 🏆 Trophies
+## 🏆 Conquistas
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThisLaynOS&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ThisLaynOS&theme=discord&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
-<p align="center">
-  <a href="https://linkedin.com/in/seu-usuario-aqui" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-001193?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:seuemail@dominio.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-001193?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ThisLaynOS" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-001193?style=for-the-badge&logo=github&logoColor=white"/></a>
+## 🌐 Vamos nos conectar?
+
+  <a href="https://www.linkedin.com/in/erick-bernardo-0800a1283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-001193?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ThisLaynOS"><img src="https://img.shields.io/badge/GitHub-001193?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
+## 🧠 Curiosidades
+
+- 🐧 Usuário Linux desde cedo  
+- 🕹️ Gamer nas horas vagas  
+- 🤖 Planejando projetos com IA e automações  
+- 🔥 Códigos rápidos, funcionais e elegantes
+
+---
+
+<!-- WAVE FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=001193&height=120&section=footer"/>
